@@ -1,4 +1,3 @@
-//nomer3
 let printSegitiga = 5;
 
 let output = "";
